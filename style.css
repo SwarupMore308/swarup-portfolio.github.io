@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background: #080808; */
+    color: white;
+    /* border: 2px solid red; */
+}
+
+.nav-bar{
+    background-color: #080808;
+}
+
+.nav-link:hover{
+    color: red;
+}
+
+.nav-link:active{
+    color: red !important;
+}
+
+.main-container{
+    height: 100vh;
+    width: 100%;
+    margin-top: 3%;
+    background-color: #080808;
+    background-image: url("/images/background.png");
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+
+.home-text-content{
+    padding-top: 10%;
+    padding-left: 14%;
+}
+
+.home-text-content h1{
+    font-size: 56px;
+    font-weight: bolder;
+}
+
+.home-text-content span{
+    color: rgb(160, 160, 255);
+}
+
+.sm{
+    height: 80px;
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.social-media{
+    width: 60%;
+}
+
+.ssc{
+    padding: 0 0 0 0;
+    font-size: 40px;
+}
+.about-sec{
+    background-color: #080808;
+}
+.about{
+    height: 90vh;
+    width: 100%;
+    background-color: #080808;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+}
+
+.profile-pic{
+    margin-left: 50%;
+    margin-top: 10%;
+    border-radius: 20px;
+}
+
+
+.abt-txt{
+    margin-top: 5%;
+    margin-left: 0%;
+    padding: 10px 10px 10px 10px;
+    background-attachment: fixed;
+}
+
+.project-sec{
+    background-color: #080808;
+}
+
+.project{
+    height: 90vh;
+    width: 100%;
+    background-color: #080808;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+}
+
+.card{
+    background-color: black;
+}
+
+
+.sm:hover{
+    color: rgb(110, 110, 255);
+
+    text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
+
+/* .text-div{
+    border: 3px solid white;
+} */
